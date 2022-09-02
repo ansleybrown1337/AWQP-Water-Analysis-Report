@@ -1,0 +1,19 @@
+﻿Location ,Date,Irr/Storm ,Station,Rep ,ID,op,no3,nh4,no2,tkn,tp,selenium,E COLI,fecal,tss,chlorophyll A,Latitude,Longitude,notes
+Yampa Valley,5/26/2022,Grab 1,SCI,1,SB-SCI-01-GB,U,U,NA,NA,U,U,U,NA,NA,13.33333333,30.65,40.28528,-106.846751,nitrite not tested for; no duplicate for chlorophyll A analysis
+Yampa Valley,5/26/2022,Grab 1,SCI,2,SB-SCI-01-GB-D,U,U,NA,NA,U,0.11,U,NA,NA,6.666666667,NA,40.28528,-106.846751,nitrite not tested for; no duplicate for chlorophyll A analysis
+Yampa Valley,5/26/2022,Grab 1,SCA,1,SB-SCA-01-GB,U,U,NA,NA,U,0.056,U,NA,NA,20,7.37,40.268871,-106.883927,nitrite not tested for; no duplicate for chlorophyll A analysis
+Yampa Valley,5/26/2022,Grab 1,SCA,2,SB-SCA-01-GB-D,U,U,NA,NA,U,0.051,U,NA,NA,6.666666667,NA,40.268871,-106.883927,nitrite not tested for; no duplicate for chlorophyll A analysis
+Yampa Valley,5/26/2022,Grab 1,TR,1,SB-TR-01-GB,U,U,NA,NA,U,U,U,NA,NA,0,14.44,40.289025,-106.8195,nitrite not tested for; no duplicate for chlorophyll A analysis
+Yampa Valley,5/26/2022,Grab 1,TR,2,SB-TR-01-GB-D,U,U,NA,NA,U,0.059,U,NA,NA,20,NA,40.289025,-106.8195,nitrite not tested for; no duplicate for chlorophyll A analysis
+Yampa Valley,6/16/2022,Grab 1,SCO,1,SB-SCO-01-GB,U,U,NA,NA,0.9,0.33,U,NA,NA,156.6666667,NA,,,nitrite not tested for; ALS also tested TSS = 130ppm
+Yampa Valley,6/16/2022,Grab 1,SCO,2,SB-SCO-01-GB-D,U,U,NA,NA,1.2,0.29,U,NA,NA,156.6666667,NA,,,nitrite not tested for; ALS also tested TSS = 140ppm
+Yampa Valley,7/18/2022,Grab 2,SCI,1,SB-SCI-02-GB,U,U,NA,0.81,U,U,U,NA,NA,0,NA,40.28528,-106.846751,
+Yampa Valley,7/18/2022,Grab 2,SCI,2,SB-SCI-02-GB-D,U,U,NA,0.82,U,U,U,NA,NA,0,NA,40.28528,-106.846751,"TSS was reported as -3.33, but is presented as 0 here"
+Yampa Valley,7/18/2022,Grab 2,SCA,1,SB-SCA-02-GB,U,U,NA,0.15,U,0.059,U,NA,NA,3.333333333,NA,40.268871,-106.883927,
+Yampa Valley,7/18/2022,Grab 2,SCA,2,SB-SCA-02-GB-D,U,U,NA,1.1,U,0.057,U,NA,NA,3.333333333,NA,40.268871,-106.883927,
+Yampa Valley,7/13/2022,Grab 2,TR,1,SB-TR-02-GB,U,U,NA,0.71,U,U,U,NA,NA,16.66666667,NA,40.289025,-106.8195,formally mislabelled; correct ID is shown here
+Yampa Valley,7/13/2022,Grab 2,TR,2,SB-TR-02-GB-D,U,U,NA,0.71,U,0.057,U,NA,NA,3.333333333,NA,40.289025,-106.8195,formally mislabelled; correct ID is shown here
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
